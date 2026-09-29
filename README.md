@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0B1220,45:0E7490,100:22D3EE&amp;text=AI%20%26%20Data%20Science&amp;fontColor=E6F1FF&amp;fontSize=38&amp;fontAlignY=38&amp;animation=twinkling" width="100%" alt="Animated AI and Data Science banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0B1220,45:0E7490,100:22D3EE&amp;text=AI%20%26amp%3B%20Data%20Science%20%7C%20Python%20%7C%20Machine%20Learning%20%7C%20Data%20%7C%20Cloud%20%7C%20Technology&amp;fontColor=E6F1FF&amp;fontSize=24&amp;fontAlignY=38&amp;animation=twinkling" width="100%" alt="Animated AI and Data Science, Python, Machine Learning, Data, Cloud, and Technology banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2600&amp;pause=700&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=55&amp;lines=AI+%26+Data+Science+Student;Python+Learner;Machine+Learning+Explorer;Data+Science+Learner;Cloud+Technology+Learner;Problem+Solver" alt="AI and Data Science student exploring Python, machine learning, data science, cloud, and problem solving" />
 
